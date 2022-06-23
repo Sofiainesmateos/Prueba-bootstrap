@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500&display=swap");
+
+.nav-link{
+    padding: 3px;
+    margin: 1px 15px 1px 15px;
+}
+
+.flex{
+    display: inline;
+    justify-content:center;
+    text-align: center;
+}
+
+
+.img-fluid{
+    max-width: 250px;
+    border-radius: 0.2em;
+}
+
+.col-12 h1{ 
+    display: flex;
+    font-size: 80px;
+    font-family: "Montserrat", sans-serif;
+    color: rgb(212, 109, 0);
+    justify-content: center;
+    padding: 0em;
+    margin: 1em;
+    font-weight: 500;
+}
+.col-3{ 
+    font-size: 18px;
+    color:#000000;
+    font-weight: 500;
+}
+
+.nuevasrecetas{
+    margin: 5% 0% 2% 0%;
+    background-color: rgb(255, 204, 247);
+    font-family: "Montserrat", sans-serif;
+    color: #df390b;
+    font-weight: 800;
+    font-size: 35px;
+    padding: 0.5em;
+}
+
+.tips{
+    margin: 5% 0% 2% 0%;
+    background-color: rgb(255, 204, 247);
+    font-family: "Montserrat", sans-serif;
+    color: #df390b;
+    font-weight: 800;
+    font-size: 35px;
+    padding: 0.5em;
+}
+
+.tienda{
+    margin: 5% 0% 2% 0%;
+    background-color: rgb(255, 204, 247);
+    font-family: "Montserrat", sans-serif;
+    color: #df390b;
+    font-weight: 800;
+    font-size: 35px;
+    padding: 0.5em;
+}
+
+.recetarios{
+    font-size: 18px;
+    color:#000000;
+    font-weight: 700;
+}
+
+.col-2{
+    font-size: 18px;
+    color:#000000;
+    font-weight: 700;
+}
+
+.bd-footer{
+    height: 200px;
+    background-color: #d93d12;
+    margin-top: 50px;
+}
+
+.copyright{
+    display: inline-block;
+    justify-content: center;
+    margin-top: 150px;
+    color: aliceblue;
+}
